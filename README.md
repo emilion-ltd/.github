@@ -1,8 +1,8 @@
 # .github
-# Hello World! 👋 I'm Yossi Haephrati
+# Hello World! 👋 I'm Yossi Haephrati From E-milion Ltd
 
-[![Website](https://img.shields.io/website?label=yossihaephrati.com&style=for-the-badge&url=https%3A%2F%2Fyossihaephrati.com)](https://yossihaephrati.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yossicode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyossihaephrati&screen_name=yossicode)
+[![Website](https://img.shields.io/website?label=emilion.co.il&style=for-the-badge&url=https%3A%2F%2Femilion.co.il)](https://emilion.co.il)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Emaillion?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Femilion-ltd&screen_name=Emaillion)
 
 ## 💻 Full Stack Developer | 🎨 UX Enthusiast | 🚀 Innovation Driver
 
@@ -14,7 +14,7 @@ I'm a passionate full stack developer with a keen eye for user experience. My jo
 - 🌱 I'm always learning, currently diving deep into serverless architectures and AI integration in web apps
 - 👯 I'm looking to collaborate on open-source projects that make a positive impact on society
 - 💬 Ask me about full stack development, UX design principles, or the latest tech trends
-- 📫 How to reach me: [yossi@yossihaephrati.com](mailto:yossi@yossihaephrati.com)
+- 📫 How to reach me: [yossi@yossihaephrati.com](mailto:support@emilion.co.il)
 - ⚡ Fun fact: I'm an avid hiker and have conquered some of Israel's most challenging trails!
 
 ### 🛠️ Technologies & Tools
@@ -30,31 +30,31 @@ I'm a passionate full stack developer with a keen eye for user experience. My jo
 
 ### 📈 GitHub Stats
 
-<a href="https://github.com/yossihaephrati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossihaephrati&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/emilion-ltd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilion-ltd&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/yossihaephrati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yossihaephrati&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yossi's GitHub Stats" />
+<a href="https://github.com/emilion-ltd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emilion-ltd&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="emilion-ltd's GitHub Stats" />
 </a>
 
 ### 🌍 Connect with me
 
-[<img align="left" alt="yossihaephrati.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="emilion.co.il" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="yossicode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yossi-haephrati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yossi.code | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="emilion-ltd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="emilion-ltd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Serverless: A Deep Dive into AWS Lambda](https://yossihaephrati.com/blog/mastering-serverless)
-- [The Future of Web Development: AI Integration](https://yossihaephrati.com/blog/ai-in-web-dev)
-- [Optimizing React Performance: Advanced Techniques](https://yossihaephrati.com/blog/react-performance)
+- [Mastering Serverless: A Deep Dive into AWS Lambda](https://emilion.co.il/blog/)
+- [The Future of Web Development: AI Integration](https://emilion.co.il/blog/)
+- [Optimizing React Performance: Advanced Techniques](https://emilion.co.il/blog/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://yossihaephrati.com/blog)
+➡️ [more blog posts...](https://emilion.co.il/blog/)
 
 ---
 
